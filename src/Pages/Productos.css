@@ -1,0 +1,9 @@
+button.btn.btn-secondary {
+    color: black;
+}
+button.btn.btn-secondary:hover{
+    color: white;
+}
+.btn{
+    margin: 10px;
+}

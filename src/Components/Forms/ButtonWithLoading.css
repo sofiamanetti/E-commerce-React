@@ -1,0 +1,7 @@
+.buttonWithLoading{
+    color:"#000000";
+    font-size:"20px";
+}
+.buttonWithLoading:hover{
+    color: white;
+}
